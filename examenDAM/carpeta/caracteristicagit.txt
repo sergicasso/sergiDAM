@@ -1,0 +1,1 @@
+Git permite combinar ramas independientemente de los archivos que hayan en ellos.
